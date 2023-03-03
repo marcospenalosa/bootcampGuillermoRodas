@@ -1,6 +1,6 @@
 # bootcampGuillermoRodas
 ## Apuntes y ejercicios del bootcamp de Guillermo Rodas (iniciado el 01/03/23) realizado por **Marcos Peñalosa**
-
+---
 ### Semana 1
 
 - Markdown
