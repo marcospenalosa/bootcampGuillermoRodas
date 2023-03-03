@@ -13,4 +13,5 @@ Es decir, la diferencia es:
 ---
 # ¿Por qué ``` mv ``` se usa para renombrar archivos?
 Cuando ejecutamos el comando ``` mv ``` el sistema borra el archivo orginal y crea uno nuevo.
+
 [Wikipedia](https://es.wikipedia.org/wiki/Mv)
