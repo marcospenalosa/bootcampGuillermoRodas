@@ -22,3 +22,13 @@
 - [Clase 2](https://www.youtube.com/watch?v=RbJz4SdT0NM)
 
 ##### S1 clase 3
+
+1. HTML básico
+
+- [Clase 3](https://www.youtube.com/watch?v=iXhidWr3PLo)
+
+##### S1 clase 4
+
+1. CSS básico
+
+- [Clase 4](https://www.youtube.com/watch?v=nEKa6mE-Uvo)

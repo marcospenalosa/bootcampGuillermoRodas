@@ -1,0 +1,4 @@
+- Código: Conjunto de *instrucciones* que indican al ordenador las **tareas a realizar**.
+- Algoritmo: Las *instrucciones* reciben el nombre de **algoritmos**, un código puede tener uno o más algoritmos.
+- Sentencia: *Instrucción* que realiza **una acción** en el programa (Statement) (Declaraciones)
+- Expresión: Combinación de valores, variables, operadores y funciones que se evalúa para producir un **resultado** (Expression)
